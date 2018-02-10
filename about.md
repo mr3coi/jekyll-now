@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Undergraduate, Statistics & CS @ SNU
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Areas of Interest: DL, Data Science, Computer Architecture, Parallel Computing
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mr3coi@gmail.com](mailto:email@domain.com)
