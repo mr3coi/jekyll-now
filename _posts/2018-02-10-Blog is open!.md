@@ -1,4 +1,4 @@
 ---
-published: false
+published: true
 ---
 ### This blog starts today!
