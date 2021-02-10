@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Vim commands :s, :g, :v
 ---
 ### [Vim] commands `:s`, `:g`, `:v`
 
@@ -28,3 +30,4 @@ published: true
 
 Reference:
 - https://vim.fandom.com/wiki/Power\_of\_g
+- https://vim.fandom.com/wiki/Search\_and\_replace

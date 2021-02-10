@@ -5,26 +5,26 @@ permalink: /about/
 published: true
 ---
 
-Undergraduate @ College of Liberal Studies, SNU (Major: Statistics, CS)
+Deep Learning SWE @ TensorRT, NVIDIA
 
 
 ### Areas of Interest
 
-DL, Data Science, Parallel Computing, Computer Architecture
+Machine Learning, Deep Learning, Parallel Computing
 
 
 ### Experience
 
-Mar. 2012 ~ Present:
-	Undergraduate @ SNU
+Feb. 2021 ~ Present:
+	Deep Learning SWE @ TensorRT, NVIDIA
 
-Jun. 2017 ~ Aug. 2017:
-	Full-time intern @ Ex-em
+May 2020 ~ Aug. 2020:
+	Performance SWE Intern @ TensorRT, NVIDIA
 
-Jan. 2018 ~ Present:
-	Full-time undergraduate intern @ ARC, SNU (https://arc-snu.github.io/)
+Jun. 2018 ~ Aug. 2018:
+	Student intern @ Naver CLOVA AI
 
 
 ### Contact me
 
-[mr3coi@gmail.com](mailto:email@domain.com)
+[sungjun2@mail.alumni.cmu.edu](mailto:sungjun2@mail.alumni.cmu.edu)
