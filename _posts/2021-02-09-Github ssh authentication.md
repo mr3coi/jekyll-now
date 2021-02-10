@@ -47,3 +47,4 @@ Reference:
 - <https://gist.github.com/developius/c81f021eb5c5916013dc>
 - <https://gist.github.com/xirixiz/b6b0c6f4917ce17a90e00f9b60566278>
 - <https://stackoverflow.com/questions/14762034/push-to-github-without-a-password-using-ssh-key>
+- <https://stackoverflow.com/questions/41412964/using-a-non-default-key-name-other-than-id-rsa>

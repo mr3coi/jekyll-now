@@ -11,3 +11,6 @@ title: (Vim-plugin) NERDTree shortcuts & commands
     1. Change Vim working directory using `:cd <dest>`
     2. Execute `:NERDTreeCWD`
     3. The file list should be updated as per the new working directory
+
+Reference:
+- <https://stackoverflow.com/questions/8584182/how-to-refresh-in-nerdtree-plugin>
