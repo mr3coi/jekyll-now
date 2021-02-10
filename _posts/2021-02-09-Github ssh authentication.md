@@ -1,8 +1,10 @@
 ---
 published: true
 layout: post
-title: [Github] Setting up automatic authentication using SSH
+title: Github - Setting up automatic authentication using SSH
 ---
+
+### [Github] Setting up automatic authentication using SSH
 
 1.  Create SSH key using `ssh-keygen`:
     - Specify key type using `-t`; the following are recommended for safety:
