@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Vim - NERDTree shortcuts & commands
+title: (Vim-plugin) NERDTree shortcuts & commands
 ---
 
 1.  Refreshing NERDTree file list after creating/deleting/renaming file:
