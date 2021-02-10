@@ -1,4 +1,5 @@
 ---
 published: true
 ---
-### This blog starts today!
+
+This blog starts today!

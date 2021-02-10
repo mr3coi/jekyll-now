@@ -3,7 +3,6 @@ published: true
 layout: post
 title: Vim - commands :s, :g, :v
 ---
-### [Vim] commands `:s`, `:g`, `:v`
 
 1.  `:s`: Substitution
     - Syntax: `:[range]s/pattern/relacement[/gci]` where
