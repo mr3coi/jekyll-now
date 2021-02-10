@@ -29,5 +29,5 @@ title: Vim commands :s, :g, :v
 
 
 Reference:
-- <https://vim.fandom.com/wiki/Power\_of\_g>
-- <https://vim.fandom.com/wiki/Search\_and\_replace>
+- <https://vim.fandom.com/wiki/Power_of_g>
+- <https://vim.fandom.com/wiki/Search_and_replace>
