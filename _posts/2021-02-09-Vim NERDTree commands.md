@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Vim-plugin - NERDTree shortcuts & commands
+title: Vim - NERDTree shortcuts & commands
 ---
 ### [Vim-plugin] NERDTree shortcuts & commands
 

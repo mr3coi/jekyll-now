@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Vim commands :s, :g, :v
+title: Vim - commands :s, :g, :v
 ---
 ### [Vim] commands `:s`, `:g`, `:v`
 
