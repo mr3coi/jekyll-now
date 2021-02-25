@@ -21,6 +21,7 @@ title: (Vim) commands :s, :g, :v
     - e.g. `:g/^\t\t/d` deletes all lines starting with 2 tabs
 
 3.  `:v`: Global non-match command
+    - Useful example: `:v/./d` to remove any unwanted empty line (since any non-empty line would be matched)
 
 4.  Other tips
     - Wrapping a word or phrase with `\<`, `\>` forces to match
@@ -30,3 +31,4 @@ title: (Vim) commands :s, :g, :v
 Reference:
 - <https://vim.fandom.com/wiki/Power_of_g>
 - <https://vim.fandom.com/wiki/Search_and_replace>
+- <https://vim.fandom.com/wiki/Remove_unwanted_empty_lines>
