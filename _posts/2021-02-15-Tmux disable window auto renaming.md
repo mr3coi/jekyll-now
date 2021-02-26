@@ -20,6 +20,7 @@ title: (Tmux) Disable auto-renaming windows
     ```
     tmux source-file ~/.tmux.conf
     ```
+    - Also possible to kill all open tmux sessions using `tmux kill-server`; use at user's risk
 
 
 Reference:
