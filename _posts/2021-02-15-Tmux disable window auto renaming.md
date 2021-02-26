@@ -26,3 +26,4 @@ title: (Tmux) Disable auto-renaming windows
 Reference:
 - <https://stackoverflow.com/questions/6041178/keep-the-windows-name-fixed-in-tmux>
 - <https://blog.sanctum.geek.nz/reloading-tmux-config/>
+- <https://unix.stackexchange.com/questions/66606/tmux-not-sourcing-my-tmux-conf>
