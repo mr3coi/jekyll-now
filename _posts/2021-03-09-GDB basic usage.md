@@ -65,10 +65,13 @@ title: (gdb) Basic usage instructions
 
 6.  Misc.
     - Meaning of `<FUNCTION_NAME>@plt`: refer to reference (\*)
+    - `"No symbol XXX in current context"`: Variable may have been optimized out during compilation;
+      remove any optimization by specifying `-O0` flag to compiler
 
 
 References:
 - <https://ftp.gnu.org/old-gnu/Manuals/gdb/html_node/gdb_28.html>
+- <https://stackoverflow.com/questions/6121094/how-do-i-run-a-program-with-commandline-arguments-using-gdb-within-a-bash-script>
 - <https://stackoverflow.com/questions/59599200/clear-all-breakpoints-in-gdb>
 - <https://stackoverflow.com/questions/39421971/in-gdb-whats-the-difference-between-where-bt-and-i-frame-commands>
 - <https://stackoverflow.com/questions/14581837/gdb-how-to-print-the-current-line-or-find-the-current-line-number>
@@ -76,3 +79,5 @@ References:
 - <https://stackoverflow.com/questions/35806129/c-gdb-breakpoint-for-member-functions>
 - <https://stackoverflow.com/questions/33661179/debug-c-template-with-gdb?rq=1>
 - <https://stackoverflow.com/questions/5469274/what-does-plt-mean-here> (\*)
+- <https://stackoverflow.com/questions/3758614/gdb-no-symbol-i-in-current-context>
+- [Reference for examining source files](http://kirste.userpage.fu-berlin.de/chemnet/use/info/gdb/gdb_8.html)
