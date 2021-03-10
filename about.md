@@ -23,8 +23,3 @@ May 2020 ~ Aug. 2020:
 
 Jun. 2018 ~ Aug. 2018:
 	Student intern @ Naver CLOVA AI
-
-
-### Contact me
-
-[sungjun2@mail.alumni.cmu.edu](mailto:sungjun2@mail.alumni.cmu.edu)
