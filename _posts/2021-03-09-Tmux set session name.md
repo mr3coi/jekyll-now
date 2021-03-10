@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: (GNU) `dlopen` a dynamic library multiple times
+title: (Tmux) Set the name of a session
 ---
 
 1.  The same file handle is returned multiple times.
