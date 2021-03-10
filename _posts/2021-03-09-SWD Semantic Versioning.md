@@ -7,9 +7,9 @@ title: (SW Dev) Semantic versioning of software
 A (widely accepted) way of assigning versions to softwares or libraries such that
 change in version number carries a semantic message regarding the underlying API design.
 - A version consists of 3 numbers with periods in between: `X.Y.Z` where each has a name as follows:
-  1.  `X`: "major"
-  2.  `Y`: "minor"
-  3.  `Z`: "patch"
+  - `X`: "major"
+  - `Y`: "minor"
+  - `Z`: "patch"
 
 - An increase in `Z` indicates an API-unrelated update or a bug fix.
   There is no API change and thus no reason for the user to update his/her code.
