@@ -7,6 +7,7 @@ title: (Vim) resize, rearrange splits
 1.  Resize splits: `:[vertical ]resize [+-]N`
     - `resize`: sets (or increments/decrements) the height of the window to (by) `N` rows
     - `vertical resize`: sets (or increments/decrements) the width of the window to (by) `N` columns
+    - Note how the cmd names are confusing (`vertical resize` moves split left/right)
 
 2.  Rearrange splits: `<ctrl-w> HJKL`
     - Moves the split that I am currently in towards the specified direction

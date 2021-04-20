@@ -4,5 +4,6 @@ layout: post
 title: (SW Dev) Terms & Abbreviations
 ---
 
-- PLC: Product Life Cycle
-- QA: Quality Assurance
+- PLC:  Product Life Cycle
+- QA:   Quality Assurance
+- TAT:  Turnaround Time

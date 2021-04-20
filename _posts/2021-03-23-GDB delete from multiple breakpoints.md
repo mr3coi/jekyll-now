@@ -19,6 +19,9 @@ title: (gdb) Delete a location in a breakpoint
 4.  Multiple locations in a breakpoint can be disabled simultaneously by specifying a range in their indices:
     `disable x.y-z` disables `x.y`, `x.(y+1)`, ..., `x.z`
 
+5.  To disable/delete ALL breakpoints: run `disable` or `delete` without arguments
+
 
 References:
 - <https://stackoverflow.com/questions/54417220/how-to-delete-a-breakpoint-from-multiple-breakpoint-list-in-gdb>
+- <https://stackoverflow.com/questions/59599200/clear-all-breakpoints-in-gdb>
